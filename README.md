@@ -18,4 +18,4 @@ This project demonstrates the implementation of a binary tree data structure in 
 - **Simple console output**: Results of tree operations are displayed in the console.
 
 ## Testing (JUnit)
-- JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities.....
+- JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities.
