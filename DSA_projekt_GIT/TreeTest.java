@@ -74,7 +74,7 @@ class TreeTest {
         assertEquals(40, binaryTree.sumLeafs(), "Sum of leaf nodes should be 40");
     }
 
-    // Test method for verifying the value of the root node
+    // Test method for verifying the value of the root node 
     @Test
     void testRootValue() {
         // Check if the value of the root node matches the expected value
